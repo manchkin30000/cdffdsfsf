@@ -1,0 +1,22 @@
+.lorem{
+background-color: tomato;
+}
+
+body{
+background-color: lime;
+
+}
+
+footer{
+height: 300px ;
+width: 100%;
+
+
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: lemonchiffon; 
+    border-style: solid;
+    
+    background-color: maroon;
+
+}
